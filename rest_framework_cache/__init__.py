@@ -7,3 +7,4 @@ __version__ = '0.1'
 
 
 pkg_resources.declare_namespace(__name__)
+default_app_config = 'rest_framework_cache.apps.rest_cacheConfig'
